@@ -1,0 +1,17 @@
+.message-box {
+  max-width: 300px;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 50px;
+}
+.message-box__title {
+  font-size: 20px;
+  color: blue;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.message-box__desc {
+  color: cadetblue;
+  font-size: 14px;
+  line-height: 1.5;
+}/*# sourceMappingURL=Message.css.map */
